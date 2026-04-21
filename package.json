@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@firebase/installations": "^0.6.21",
+    "firebase": "^12.11.0"
+  }
+}
