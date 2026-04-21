@@ -1,0 +1,8 @@
+## Android Key Properties Template
+## Copy this file to key.properties and fill in your actual values
+## NEVER commit the actual key.properties file to Git
+
+storePassword=YOUR_STORE_PASSWORD_HERE
+keyPassword=YOUR_KEY_PASSWORD_HERE
+keyAlias=YOUR_KEY_ALIAS_HERE
+storeFile=PATH_TO_YOUR_KEYSTORE_FILE.jks
